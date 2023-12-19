@@ -11,16 +11,16 @@
   <img align="left" alt="wise Up Data's LinkedIN" width="22px" src="https://raw.githubusercontent.com/wiseupdata/wiseupdata/main/assets/linkedin.png" />
 </a>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwiseupdata%2Fmyproject&countColor=%2337d67a&style=flat)
-![license](https://img.shields.io/github/license/wiseupdata/myproject)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwiseupdata%2Fpython-template&countColor=%2337d67a&style=flat)
+![license](https://img.shields.io/github/license/wiseupdata/python-template)
 
 ---
 <a name="readme-top"></a>
 
 <h1>
-<img align="left" alt="myproject" src="https://raw.githubusercontent.com/wiseupdata/myproject/main/assets/imgs/bot.jpeg" width="150" />
+<img align="left" alt="python-template" src="https://raw.githubusercontent.com/wiseupdata/python-template/main/assets/imgs/bot.jpeg" width="150" />
 
-myproject, Python template! 🚀️
+Simple, Python template! 🚀️
 
 </h1>
 
@@ -33,7 +33,7 @@ myproject, Python template! 🚀️
 # Simple to use ❤️
 
 ```bash
-pip install myproject
+pip install python-template
 ```
 
 <br>
@@ -51,7 +51,7 @@ pip install myproject
 <br>
 <br>
 
-[Documentation](https://wiseupdata.github.io/myproject/)  🚀
+[Documentation](https://wiseupdata.github.io/python-template/)  🚀
 
 <br>
 <br>
