@@ -1,5 +1,5 @@
 
-# Talk with your data!
+# Simple template!
 
 
 !!! success "Features ✨️"
